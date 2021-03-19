@@ -1,5 +1,5 @@
 .div-block {
-  padding-top: 20px;
+  padding-top: 0px;
   padding-bottom: 20px;
   text-align: center;
 }
@@ -29,6 +29,8 @@
 }
 
 .body {
+  padding-top: 40px;
+  padding-bottom: 40px;
   background-color: #fff;
 }
 
